@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834749032162",
+    "project_id": "cloudlab-f3404",
+    "storage_bucket": "cloudlab-f3404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834749032162:android:6f69f4a683fe3d114ca0bb",
+        "android_client_info": {
+          "package_name": "com.iug.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834749032162-f9obeejhi53adjn2il52fshn02gj1420.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtBUOXePASoA8oTJrIyCnaeMKNxvk_Efc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834749032162-f9obeejhi53adjn2il52fshn02gj1420.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
